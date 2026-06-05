@@ -553,12 +553,6 @@ User upload PDF + input skill → Frontend → Backend → AI Service
   → Gabungkan skill dari PDF dan input manual → Model BiLSTM → Rekomendasi lebih akurat
 ```
 
-### AI Chat Stream
-
-```
-User kirim pesan → Frontend (SSE) → Backend (SSE proxy) → AI Service (Gemini streaming) → Respons real-time
-```
-
 ---
 
 ## Struktur Folder
